@@ -1,0 +1,9 @@
+$/ = "";
+while (my $doc = <>) {
+	
+	@lines = split("\n", $doc);	
+	foreach my $line (@lines) {
+		print $n," ",$line,"\n";
+	}
+	$n++
+}
