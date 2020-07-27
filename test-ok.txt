@@ -21865,7 +21865,7 @@
 1621 Tuesday O
 1621 and O
 1621 Wednesday O
-1621 , O
+1621 are O
 1621 opposition O
 1621 leader O
 1621 Aung B-PER
@@ -21890,7 +21890,7 @@
 1621 into O
 1621 the O
 1621 protests O
-1621 . O
+1621 with O
 1622 She O
 1622 was O
 1622 allowed O
